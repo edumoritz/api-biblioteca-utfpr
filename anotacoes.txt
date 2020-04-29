@@ -1,0 +1,27 @@
+
+- Verificar tela de autor
+
+/**
+ * TABELA OBRA
+ * Tipo:
+ * Livro, Revista...
+ */
+
+/**
+ * TABELA EXEMPLAR
+ * Situação:
+ * 0 - Inativo
+ * 1 - disponivel 
+ * 2 - emprestado
+ */
+
+ /**
+ * TABELA USUARIO
+ * Perfil:
+ * Adm = 0
+ * usuario = 1
+ * 
+ * Situacao:
+ * Ativo = 0
+ * Inativo = 1
+ */
