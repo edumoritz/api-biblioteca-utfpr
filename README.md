@@ -13,7 +13,7 @@ Desenvolvedor - aplicação (package AP) **(Eduardo)**<br/>
 Integrador **(Diana)**
 
 O objetivo é implementar* uma aplicação para o seguinte sistema de empréstimos/devolução de livros em uma biblioteca:
-![Imagem Diagrama de Classes](./DiagramadeClasses.jpg)
+<img src=”/DiagramadeClasses.JPG”>
 
 1 - É importante registrar a realização das tarefas, seja comparticipação em Fórum de Discussão ou Chat;<br/>
 2 - Algumas atividades precisam ser executadas:
