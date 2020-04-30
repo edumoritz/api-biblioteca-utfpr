@@ -6,16 +6,16 @@ Atividade realizada na pós graduação de engenharia de software UTFPR
 
 Como sugestão estão relacionados abaixo cinco papéis para serem desempenhados pela equipe:
 
-Usuário do sistema - Requisitos **(Nicolle)**
-Desenvolvedor/projetista - interface gráfica (package IG) **(Gustavo)**
-Desenvolvedor/projetista - banco de dados (package BD) **(Ronaldo)**
-Desenvolvedor - aplicação (package AP) **(Eduardo)**
+Usuário do sistema - Requisitos **(Nicolle)**<br/>
+Desenvolvedor/projetista - interface gráfica (package IG) **(Gustavo)**<br/>
+Desenvolvedor/projetista - banco de dados (package BD) **(Ronaldo)**<br/>
+Desenvolvedor - aplicação (package AP) **(Eduardo)**<br/>
 Integrador **(Diana)**
 
 O objetivo é implementar* uma aplicação para o seguinte sistema de empréstimos/devolução de livros em uma biblioteca:
-![Imagem Diagrama de Classes](DiagramadeClasses.jpg)
+![Imagem Diagrama de Classes](./DiagramadeClasses.jpg)
 
-1 - É importante registrar a realização das tarefas, seja comparticipação em Fórum de Discussão ou Chat;
+1 - É importante registrar a realização das tarefas, seja comparticipação em Fórum de Discussão ou Chat;<br/>
 2 - Algumas atividades precisam ser executadas:
 
 * Devem ser realizadas reuniões (síncronas ou assíncronas) com o Usuário, para a obtenção de informações e para a validação do sistema**;
@@ -29,3 +29,5 @@ O objetivo é implementar* uma aplicação para o seguinte sistema de empréstim
 - Pode ser um texto que descreve o relacionamento entre cada pacote e/ou camada da aplicação, ou um diagrama de pacotes
 
 **Notem que não há um Gerente de Projeto, portanto vocês devem definir a melhor maneira de organizar o trabalho.**
+<br/>
+:alien: :neckbeard:
