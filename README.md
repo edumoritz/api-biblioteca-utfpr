@@ -28,6 +28,3 @@ O objetivo é implementar* uma aplicação para o seguinte sistema de empréstim
 - O Usuário pode solicitar informações adicionais para o sistema. Cada reunião deve gerar um pequeno texto que comprove a informação passada pelo Usuário, ou a validação que foi realizada;
 - Pode ser um texto que descreve o relacionamento entre cada pacote e/ou camada da aplicação, ou um diagrama de pacotes
 
-**Notem que não há um Gerente de Projeto, portanto vocês devem definir a melhor maneira de organizar o trabalho.**
-<br/>
-:alien: :neckbeard:
